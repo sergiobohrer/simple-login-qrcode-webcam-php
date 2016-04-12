@@ -1,0 +1,26 @@
+#qr-canvas {
+    display:none;
+    width: 220px; /* not necessary because display is none */
+}
+
+#v {
+    border-radius: 20px;
+    width: 460px;
+}
+
+div.raffle {
+    width: 90%;
+    margin: 0 auto;
+}
+
+div.raffle .webcam {
+    width: 45%;
+    text-align: center;
+    float: left;
+}
+
+div.raffle .rules {
+    width: 55%;
+    margin: 0 auto;
+    float: left;
+}
